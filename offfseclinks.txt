@@ -1,0 +1,17 @@
+[1]: https://www.offensive-security.com/download.php?mdday=49179182d0583ba77b09e533080badba&day=2020-09-08&md=6aa784f04b2b4bc9478cda2261b011dc&purchase_id=737001&file=pwk-83420-737001.rar
+[2]: https://www.offensive-security.com/download.php?mdday=49179182d0583ba77b09e533080badba&day=2020-09-08&md=6aa784f04b2b4bc9478cda2261b011dc&purchase_id=737001&file=pwk-83420-737001.pdf
+[3]: https://support.offensive-security.com/kali-vm
+[4]: https://support.offensive-security.com/pwk-connectivity-guide
+[5]: https://www.offensive-security.com/download.php?mdday=49179182d0583ba77b09e533080badba&day=2020-09-08&md=6aa784f04b2b4bc9478cda2261b011dc&purchase_id=737001&type=con&course=PWK&&file=lab-connection.tar.bz2
+[6]: https://10.70.70.70/oscpanel/labcpanel.php?md=6aa784f04b2b4bc9478cda2261b011dc&pid=737001&servers=0
+[7]: https://support.offensive-security.com/pwk-reporting
+[8]: https://www.offensive-security.com/faq/#exam-faqs
+[9]: https://forums.offensive-security.com/
+[10]: https://support.offensive-security.com/
+[11]: https://www.offensive-security.com/offsec-irc-guide/
+[12]: https://forums.offensive-security.com
+[13]: https://10.70.70.70/oscpanel/labcpanel.php?md=6aa784f04b2b4bc9478cda2261b011dc&pid=737001&servers=0
+[14]: https://www.offensive-security.com/exam.php?md=6aa784f04b2b4bc9478cda2261b011dc&pid=737001
+[15]: https://support.offensive-security.com/oscp-exam-guide
+[16]: https://www.offensive-security.com/buy.php?md=6aa784f04b2b4bc9478cda2261b011dc
+[17]: https://support.offensive-security.com/academic-policy
